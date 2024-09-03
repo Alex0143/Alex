@@ -1,0 +1,7 @@
+# Ignore system and application directories
+AppData/
+Application Data/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
